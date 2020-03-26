@@ -29,11 +29,6 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
-.progress-label {
-	  float: left;
-	  margin-right: 1em;
-	}
-
 body {
 	line-height: 1;
 }
